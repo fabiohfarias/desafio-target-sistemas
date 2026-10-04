@@ -1,0 +1,7 @@
+.dotnet/
+dotnet-install.ps1
+**/bin/
+**/obj/
+.vs/
+dados-locais/
+*.user
